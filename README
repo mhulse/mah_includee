@@ -1,0 +1,7 @@
+Includee: (Random) PHP include()/readfile(), plus optional caching.
+
+Please see forum thread for more information:
+http://expressionengine.com/forums/viewthread/...
+
+Thanks to Pascal Kriete for the cache code and inspiration:
+http://github.com/pkriete/pk.github.ee_addon
