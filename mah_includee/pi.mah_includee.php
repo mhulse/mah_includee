@@ -9,7 +9,7 @@ $plugin_info = array(
 	'pi_version' => '1.0',
 	'pi_author' => 'Micky Hulse',
 	'pi_author_url' => 'http://hulse.me/',
-	'pi_description' => '(Random) PHP include()/readfile(), plus optional caching.',
+	'pi_description' => '[Expression Engine 2.0] Includee: (Random) PHP[5] include()/readfile(), plus optional caching.',
 	'pi_usage' => Mah_includee::usage()
 );
 
@@ -916,7 +916,7 @@ class Mah_includee {
 		
 		?>
 		
-		Includee: (Random) PHP include()/readfile(), plus optional caching.
+		[Expression Engine 2.0] Includee: (Random) PHP[5] include()/readfile(), plus optional caching.
 		
 		Please see forum thread for more information:
 		http://expressionengine.com/forums/viewthread/...

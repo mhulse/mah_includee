@@ -1,8 +1,8 @@
 ==========================
-Includee
+[Expression Engine 2.0]
 ==========================
 
-(Random) PHP include()/readfile(), plus optional caching.
+Includee: (Random) PHP[5] include()/readfile(), plus optional caching.
 
 ==========================
 Example:
