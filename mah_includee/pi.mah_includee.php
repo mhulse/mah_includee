@@ -458,7 +458,7 @@ class Mah_includee {
 	// --------------------------------------------------------------------
 	
 	/**
-	 * Check and/or create folder.
+	 * Check and/or create folder
 	 * 
 	 * @access     private
 	 * @param      string
@@ -666,7 +666,7 @@ class Mah_includee {
 	// --------------------------------------------------------------------
 	
 	/**
-	 * Cleans file path.
+	 * Cleans file path
 	 * 
 	 * @access     private
 	 * @param      string
@@ -699,7 +699,7 @@ class Mah_includee {
 	// --------------------------------------------------------------------
 	
 	/**
-	 * Checks path for illegal strings.
+	 * Checks path for illegal strings
 	 * 
 	 * @access     private
 	 * @param      string
@@ -747,7 +747,7 @@ class Mah_includee {
 	// --------------------------------------------------------------------
 	
 	/**
-	 * Check if a file's extension is in array of allowed extensions.
+	 * Check if a file's extension is in array of allowed extensions
 	 * 
 	 * @access     private
 	 * @param      string
@@ -903,7 +903,7 @@ class Mah_includee {
 	// --------------------------------------------------------------------
 	
 	/**
-	 * Plugin Usage.
+	 * Plugin Usage
 	 * 
 	 * @access     public
 	 * @return     string
