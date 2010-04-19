@@ -1,7 +1,25 @@
-Includee: (Random) PHP include()/readfile(), plus optional caching.
+==========================
+Includee
+==========================
+
+(Random) PHP include()/readfile(), plus optional caching.
+
+==========================
+Example:
+==========================
+
+{exp:mah_includee file="/folder/tests.php,/folder/onload-hide.html" command="include" cache="true" refresh="60"}
+
+==========================
+More info:
+==========================
 
 Please see forum thread for more information:
-http://expressionengine.com/forums/viewthread/...
+http://expressionengine.com/forums/viewthread/... 
+
+==========================
+Miscellaneous:
+==========================
 
 Thanks to Pascal Kriete for the cache code and inspiration:
 http://github.com/pkriete/pk.github.ee_addon
