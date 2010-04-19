@@ -18,11 +18,11 @@ $plugin_info = array(
 /**
  * Mah_includee Class
  * 
- * @package			ExpressionEngine
- * @category		Plugin
- * @author			Micky Hulse
- * @copyright		Copyright (c) 2010, Micky Hulse
- * @link			http://hulse.me/
+ * @package       ExpressionEngine
+ * @category      Plugin
+ * @author        Micky Hulse
+ * @copyright     Copyright (c) 2010, Micky Hulse
+ * @link          http://hulse.me/
  */
  
 class Mah_includee {
